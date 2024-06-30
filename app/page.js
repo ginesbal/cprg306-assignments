@@ -20,6 +20,9 @@ export default function HomePage() {
               <li className="hover:underline">
                 <a href ="/week-6">Week 6 Assignment</a>
               </li>
+              <li className="hover:underline">
+                <a href ="/week-7">Week 7 Assignment</a>
+              </li>
             </ul>
           </div>
         </div>
