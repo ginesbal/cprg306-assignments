@@ -8,7 +8,7 @@ import MealIdeas from "./meal-ideas";
 //week-8 imports
 import { useRouter } from "next/navigation";
 import { useEffect } from "react";
-import { useUserAuth } from "../../week-9/_utils/auth-context";
+import { useUserAuth } from "../_utils/auth-context";
 
 const Page = () => {
 // week-7 code

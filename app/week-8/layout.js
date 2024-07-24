@@ -1,6 +1,6 @@
 "use client";
 
-import { AuthContextProvider } from "../week-9/_utils/auth-context";
+import { AuthContextProvider } from "./_utils/auth-context";
 
 const Layout = ({ children }) => {
     return <AuthContextProvider>{children}</AuthContextProvider>;
